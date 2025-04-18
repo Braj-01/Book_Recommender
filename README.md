@@ -40,8 +40,7 @@ We break down Collaborative Filtering in three simple steps:
 ### 🔍 Home Page
 ![Home Page](https://github.com/Braj-01/Book_Recommender/blob/master/Screenshot%202025-04-18%20213746.png)
 
-### 📖 Book Recommendations
-![Recommendations](images/recommendations.png)
+
 
 ---
 
