@@ -57,8 +57,8 @@ We break down Collaborative Filtering in three simple steps:
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/book-recommender-system.git
-cd book-recommender-system
+git clone https://github.com/Braj-01/Book_Recommender.git
+cd Book_Recommender
 pip install -r requirements.txt
 python app.py
 ```
